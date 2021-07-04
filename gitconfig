@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = walid.benzina@yahoo.fr
+	name = Walid Benzina
